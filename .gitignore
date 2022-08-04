@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+venv/
+support/
+memo.md
+workspace.code-workspace
+
+# Pythonキャッシュ
+*.pyc
+
+# データは容量が大きすぎので除外
+.DS_Store
