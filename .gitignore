@@ -10,3 +10,4 @@ workspace.code-workspace
 
 # データは容量が大きすぎので除外
 .DS_Store
+100knock-data_analytics.zip
