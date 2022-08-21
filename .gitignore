@@ -2,8 +2,10 @@ __pycache__/
 .ipynb_checkpoints/
 venv/
 support/
+snapshot/
 memo.md
 workspace.code-workspace
+*.avi
 
 # Pythonキャッシュ
 *.pyc
