@@ -93,4 +93,5 @@ wcwidth==0.2.5
 Werkzeug==2.2.1
 wrapt==1.14.1
 xmltodict==0.13.0
+yolov3-tf2==0.5
 zipp==3.8.1

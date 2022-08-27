@@ -1,12 +1,13 @@
 __pycache__/
 .ipynb_checkpoints/
 venv/
+workspace.code-workspace
+memo.md
+
 support/
 snapshot/
-yolov3-tf2/
+yolov3_tf2/
 yolov3-tiny.weights
-memo.md
-workspace.code-workspace
 *.avi
 
 # Pythonキャッシュ
